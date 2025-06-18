@@ -200,10 +200,6 @@ int main() {
                     res = "b3";
                 }
             }
-            else {
-
-            }
-            bott == res;
             if (bott == "a1" && a1 != "X") a1 = "O";
             else if (bott == "a2" && a2 != "X") a2 = "O";
             else if (bott == "a3" && a3 != "X") a3 = "O";
